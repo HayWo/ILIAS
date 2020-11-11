@@ -646,4 +646,4 @@ kill_waiting_tasks#:#Tasks in der Warteschlange entfernen.
 system_styles#:#System Styles
 not_enabled#:#Disabled
 phantomjs_path#:#Pfad zu phantomjs
-phantomjs_path_comment#:#Optional tum erstellen von PDFs, z.B. '/usr/bin/phantomjs'
+phantomjs_path_comment#:#Optional zum erstellen von PDFs, z.B. '/usr/bin/phantomjs'
